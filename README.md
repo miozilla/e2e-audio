@@ -18,4 +18,31 @@ e2e-audio :  End to End Baseline Audio Summarization | Agent Assist, DLP API, Ba
 
 ## E2E Baseline Audio Summarization
 
+![e2e-audio001.png](./media/e2e-audio001.png)
+
+![e2e-audio002.png](./media/e2e-audio002.png)
+
+![e2e-audio003.png](./media/e2e-audio003.png)
+
+![e2e-audio004.png](./media/e2e-audio004.png)
+
+![e2e-audio005.png](./media/e2e-audio005.png)
+
+![e2e-audio006.png](./media/e2e-audio006.png)
+
+![e2e-audio007.png](./media/e2e-audio007.png)
+
+![e2e-audio008.png](./media/e2e-audio008.png)
+
+![e2e-audio009.png](./media/e2e-audio009.png)
+
+![e2e-audio010.png](./media/e2e-audio010.png)
+
+![e2e-audio011.png](./media/e2e-audio011.png)
+
+![e2e-audio012.png](./media/e2e-audio012.png)
+
+![e2e-audio013.png](./media/e2e-audio013.png)
+
+![e2e-audio014.png](./media/e2e-audio014.png)
 
