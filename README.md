@@ -6,14 +6,13 @@ e2e-audio :  End to End Baseline Audio Summarization | Agent Assist, DLP API, Ba
 - Configure conversation profile in Agent Assist
 - Run PII redaction on audio transcripts using Data Loss Prevention API
 - Generate summaries from Baseline Summarization Model
-
-- 
-    Situation: What the customer needs help with or has question about.
-    Action: What the agent does to help the customer.
-    Resolution: Result of the customer service.
-    Customer satisfaction: "Unsatisfied" if the customer is unsatisfied at the end of the conversation and "Satisfied" otherwise.
-    Reason for cancellation: If the customer requests to cancel service. N/A otherwise.
-    Entities: The key-value pairs of important entities extracted from the conversation.
+- Summarization baseline model in Agent Assist enables users to customize content of the summary by selecting from following predefined sections:
+    - Situation: What customer needs help with or has question about.
+    - Action: What agent does to help customer.
+    - Resolution: Result of customer service.
+    - Customer satisfaction: "Unsatisfied" if customer is unsatisfied at the end of conversation & "Satisfied" otherwise.
+    - Reason for cancellation: If customer requests to cancel service. N/A otherwise.
+    - Entities: The key-value pairs of important entities extracted from conversation.
 
 
 
